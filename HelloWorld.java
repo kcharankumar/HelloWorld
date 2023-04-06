@@ -2,7 +2,7 @@ class HelloWorld{
 
   public static void main (String args[]){
 
-    System.out.println ("Welcome to Jenkins...compiling java (GITHUB) from jenkins..");
+    System.out.println ("Building the java project from jenkins...");
 
 }
 
