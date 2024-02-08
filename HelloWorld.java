@@ -2,7 +2,7 @@ class HelloWorld{
 
   public static void main (String args[]){
 
-    System.out.println ("Welcome to Jenkins...Jenkins is the best building tool...");
+    System.out.println ("Let me make the java build from Jenkins...");
 
 }
 
