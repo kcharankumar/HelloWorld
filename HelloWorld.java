@@ -2,7 +2,7 @@ class HelloWorld{
 
   public static void main (String args[]){
 
-    System.out.println ("Hello, Welcome to the land of Jenkins...");
+    System.out.println ("Hello, I was watching netflix...");
 
 }
 
